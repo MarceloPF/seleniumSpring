@@ -1,4 +1,4 @@
 seleniumSpring
 ==============
 
-Project Selenium With Spring
+This Project Selenium With Spring And Hibernate
